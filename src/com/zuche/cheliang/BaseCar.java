@@ -1,4 +1,4 @@
-package com.zuche.com.cheliang;
+package com.zuche.cheliang;
 
 /**
  * Date: 7/22/22
@@ -6,6 +6,7 @@ package com.zuche.com.cheliang;
  * @author hehao
  */
 public class BaseCar {
+    public int no;
     /**
      * rizujin
      */

@@ -1,4 +1,4 @@
-package com.zuche.com.cheliang;
+package com.zuche.cheliang;
 
 /**
  * Date: 7/22/22
